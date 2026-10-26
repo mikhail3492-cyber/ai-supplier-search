@@ -10,7 +10,7 @@ Supplier_request_product list_Artificial palm tree leaves,
 Suppliers_found_by_ChatGPT_Artificial_palm_tree_leaves,
 Photo№1,
 Photo№2,
-Photo№3
+Photo№3.
 2. **Подайте новую заявку.** Заполните Excel по образцу `Supplier_request_product list_<товар>.xlsx` и загрузите его в настроенную ветку. При необходимости приложите фотографии искомого товара.
 3. **Получите результат.** ChatGPT анализирует требования, ищет и отбирает доступные профили поставщиков, затем формирует Excel в исходном формате (до 10 компаний, если найдено достаточно подходящих) и краткий бриф.
 
